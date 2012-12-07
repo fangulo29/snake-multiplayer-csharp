@@ -1,0 +1,2 @@
+C:\Users\TEMP.NAVE\Desktop\Snake_v0.3\Snake_v2\obj\x86\Debug\Snake_v2.exe
+C:\Users\TEMP.NAVE\Desktop\Snake_v0.3\Snake_v2\obj\x86\Debug\Snake_v2.pdb
